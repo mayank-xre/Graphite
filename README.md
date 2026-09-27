@@ -31,7 +31,7 @@ The generated LLVM IR links directly against embedded LLVM runtime modules (`Uti
 
 ---
 
-## DSL Syntax Reference (`.my`)
+## DSL Syntax Reference (`.gp`)
 
 | Command | Syntax | Description | Generated LLVM IR Output |
 | :--- | :--- | :--- | :--- |
